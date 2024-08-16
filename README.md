@@ -1,5 +1,5 @@
 # Pet Projects
-## Версия на русском ([Version on English](https://github.com/karishka1222/Pet-Projects/blob/main/README.md##Version-on-English))
+## Версия на русском ([English Version](https://github.com/karishka1222/Pet-Projects/blob/main/README.md##English-Version))
 Пэт-проекты были созданны для разных целей: конкурсы, сдача экзаменов или прокачка навыков.
 Одни проекты реализованы полностью мной, другие реализованны в команде.
 ### Проекты, реализованные только мной:
@@ -15,4 +15,4 @@
 ##### Проекты, сделанные по туториалам из Youtube
 ### Проекты, реализованные в команде:
 
-## Version on English ([Версия на русском](https://github.com/karishka1222/Pet-Projects/blob/main/README.md##Версия-на-русском))
+## English Version ([Версия на русском](https://github.com/karishka1222/Pet-Projects/blob/main/README.md##Версия-на-русском))
