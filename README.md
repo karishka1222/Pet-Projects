@@ -5,9 +5,9 @@ Pet projects were created for different purposes: contests, exams, or skill buil
 Some projects were implemented entirely by me, others were implemented in a team.
 ### Projects implemented only by me:
 Projects with my implementation:
-| Name | Data | Description | Stack |
-| --- | --- | --- | --- |
-| | | | |
+| Name | Data | Status | Description | Stack |
+| --- | --- | --- | --- | --- |
+| | | | | |
 
 Projects made using tutorials from YouTube to improve skills:
 | Name | Data | Status | Description | Stack | Link to the source |
