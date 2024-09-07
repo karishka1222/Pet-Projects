@@ -8,7 +8,7 @@ Projects with my implementation:
 | Name | Data | Status | Description | Stack |
 | --- | --- | --- | --- | --- |
 | [EnergyHack](https://github.com/karishka1222/EnergyHack) | Dec 2022 - Feb 2023 | `In process` | This project was created to participate in the competition "В вышку за проектом" and took 1st place. The EnergyHack application is implemented to bring together people seeking to form healthy habits and lead an active lifestyle. Here the user can find like-minded people in the chat, places for walking / training on the map (currently only in the Nizhny Novgorod region), mark their successes in the calendar and get motivating advice. | Java, Android Studio, Firebase |
-| [Contrast Shower](https://github.com/karishka1222/Contrast-Shower-app-on-Flutter) | from 20-08-2024 to now | `In progress` |  | Flutter, Dart |
+| [Contrast Shower](https://github.com/karishka1222/Contrast-Shower-app-on-Flutter) | from 20-08-2024 to now | `In progress` | The Contrast Shower app is designed for people who practice contrast showers. Here the user can set the time for a shower with cold/hot water, the time before the start of the session, the number of repetitions and start the timer. The session history will also be available. | Flutter, Dart |
 
 Projects made using tutorials from YouTube to improve skills:
 | Name | Data | Status | Description | Stack | Link to the source |
