@@ -3,6 +3,8 @@ _Read this in other language: [English](README.md), [Русский](README.ru.m
 ## Projects
 Pet projects were created for different purposes: contests, exams, or skill building.
 Some projects were implemented entirely by me, others were implemented in a team.
+
+You can see my resume [here](Resume.pdf)
 ### Projects implemented only by me:
 Projects with my implementation:
 | Name | Data | Status | Description | Stack |
